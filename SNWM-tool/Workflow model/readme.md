@@ -30,6 +30,10 @@ The first component is the user, this component represents the identity that ini
 
 The second component is the selenium. The simplest way to understand this component is to imagine a browser that can be controlled using programmable commands. Selenium usage is divided into three parts, Selenium web driver, a Browser and Jave libraries. Selenium web driver is a standalone software that acts as a server. Selenium web driver is configured to launch a Browser (second part) and control all interactions performed on the browser. Selenium web driver is initiated using java code via Selenium libraries. Once selenium libraries are initiated, java code is written to send commands to the driver, which in response perform actions on the browser and return the state of the web to the java application. 
 
+###### Java agents
+
+The third component is the Java agents. Java agents is a Java program which mimics human behavior on the social network website, hence, it is called an agent [2]. This component is further divided into human similar actions such as LoginToFacebook(), GetPosts(), GetPostsAttributes(), GetPostsComments() and GetPostsLikes(). Each action is represented by a function that performs respective tasks on the browser connected via selenium web driver.
+
 ## Phases
 
 
@@ -37,7 +41,8 @@ The second component is the selenium. The simplest way to understand this compon
 
 ## References
 
-[1] Schur, M., Roth, A., & Zeller, A. (2015). "Mining workflow models from web applications". IEEE Transactions on Software Engineering, 41(12), 1184-1201.
+[1] Schur, Matthias, Andreas Roth, and Andreas Zeller. "Mining workflow models from web applications." IEEE Transactions on Software Engineering 41, no. 12 (2015): 1184-1201.
+[2] Nwana, Hyacinth S. "Software agents: An overview." The knowledge engineering review 11, no. 3 (1996): 205-244.
 
 ## Disclaimer
 > This tool is developed using open source technologies such as Java, MySQL, and Selenium. Author / GitUser developed this tool for mining public data from the social network websites (e.g. Facebook). Data available on the social network websites is their property and should be used with their permission, however, this tool only mines data that is searchable by Google (anyone can view the public data available on the social networks). This tool is developed for research purposes only and should not be used for financial purposes or to do ill to others. 
