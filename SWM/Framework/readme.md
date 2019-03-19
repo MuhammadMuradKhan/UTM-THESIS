@@ -2,6 +2,9 @@
   <a href="http://github.com/kamranahmedse/developer-roadmap">
     <img src="https://i.imgur.com/Uid1O3A.png" alt="Developer Roadmap" width="96" height="96">
   </a>
+  <a href="http://github.com/kamranahmedse/developer-roadmap">
+    <img src="https://i.imgur.com/Uid1O3A.png" alt="Developer Roadmap" width="96" height="96">
+  </a>
   <h2 align="center">Developer Roadmap</h2>
   <p align="center">Roadmap to becoming a Web Developer in 2019</p>
   <p align="center">
