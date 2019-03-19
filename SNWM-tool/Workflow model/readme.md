@@ -34,6 +34,10 @@ The second component is the selenium. The simplest way to understand this compon
 
 The third component is the Java agents. Java agents is a Java program which mimics human behavior on the social network website, hence, it is called an agent [2]. This component is further divided into human similar actions such as LoginToFacebook(), GetPosts(), GetPostsAttributes(), GetPostsComments() and GetPostsLikes(). Each action is represented by a function that performs respective tasks on the browser connected via selenium web driver.
 
+###### MySQL Database
+
+The fourth component of the model is the MySQL database. This component is responsible for storing information extracted from the mined data. Selenium and Java agents work with HTML code retrieved from the social network websites, whereas, for each HTML code, java agent extracts the valuable information such as Post's ID, Post's Message, Post's Likes count, Post's Comments count. Also for each post user who provided the likes and comments are also extracted. A user is identified by the unique link at the Facebook website. This link is available at any place a user provides a comment or like. All of this information is stored inside the Database for research purposes.
+
 ## Phases
 
 
