@@ -42,6 +42,7 @@ The third component is the Java agents. Java agents is a Java program which mimi
 ## References
 
 [1] Schur, Matthias, Andreas Roth, and Andreas Zeller. "Mining workflow models from web applications." IEEE Transactions on Software Engineering 41, no. 12 (2015): 1184-1201.
+
 [2] Nwana, Hyacinth S. "Software agents: An overview." The knowledge engineering review 11, no. 3 (1996): 205-244.
 
 ## Disclaimer
