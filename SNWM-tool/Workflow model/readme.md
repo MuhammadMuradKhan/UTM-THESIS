@@ -22,14 +22,16 @@ This section presents the workflow model of the SNWM tool. SNWM workflow model i
 
 There are four components of the workflow model. 
 
-###### **User**
+###### User
 
 The first component is the user, this component represents the identity that initiates the process of mining data from the social network. Currently it is represented by a user, however, this tool can also be integrated into an existing application framework, where the initiation is done by computer code, rather than a human being. Initiation is done by executing a Java application with additional attributes. These attributes are Social network, URL, Project Title, Timeframe, and the number of posts. Social network attribute can have one out of three options, i.e., Facebook, LinkedIn or Twitter. URL represents the link to the public page (Facebook or LinkedIn) or public handle (Twitter). Project Title is used to create a directory on the computer to store all mined data. Timeframe and number of posts set the scope of the posts. Only those posts will be collected from the social network which resides inside the specified timeframe or is less than the specified number of posts. 
 
+###### Selenium
+
+The second component is the selenium. The simplest way to understand this component is to imagine a browser that can be controlled using programmable commands. Selenium usage is divided into three parts, Selenium web driver, a Browser and Jave libraries. Selenium web driver is a standalone software that acts as a server. Selenium web driver is configured to launch a Browser (second part) and control all interactions performed on the browser. Selenium web driver is initiated using java code via Selenium libraries. Once selenium libraries are initiated, java code is written to send commands to the driver, which in response perform actions on the browser and return the state of the web to the java application. 
 
 ## Phases
 
-![Back-end Roadmap](./images/backend.png)
 
 ## Explanation
 
