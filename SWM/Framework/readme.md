@@ -25,7 +25,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](./images/intro.png)
+![Web Developer Roadmap Introduction](./workflow.jpg)
 
 ## Frontend Roadmap
 
