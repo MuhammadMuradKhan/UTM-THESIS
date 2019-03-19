@@ -11,8 +11,6 @@
 
   <h2 align="center">Social Network Web Mining (SNWM) Tool workflow model</h2>
  
-## Disclaimer
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
 
 ## Introduction
  <p align="center">Roadmap to becoming a Web Developer in 2019</p>
@@ -58,3 +56,8 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 ## License
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## References
+
+## Disclaimer
+> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
