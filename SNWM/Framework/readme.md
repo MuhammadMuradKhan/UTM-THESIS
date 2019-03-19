@@ -5,11 +5,12 @@
   <a href="https://www.researchgate.net/project/Tool-Social-Network-Web-Mining-SNWM">
     <img src="https://raw.githubusercontent.com/MuhammadMuradKhan/iconspack/master/rg.png" alt="Research material"  height="96">
   </a>
-  <h2 align="center">Social Network Web Mining (SNWM) Tool</h2>
-  <p align="center">Roadmap to becoming a Web Developer in 2019</p>
   <p align="center">
 <a href="mailto:muradtariq.tk@gmail.com?Subject=Question%20regarding%20SNWM%20Tool"><img src="https://img.shields.io/badge/feedback-@MuhammadMuradKhan-blue.svg" /></a>
   </p>
+
+  <h2 align="center">Social Network Web Mining (SNWM) Tool workflow model</h2>
+  <p align="center">Roadmap to becoming a Web Developer in 2019</p>
   <br>
 </p>
 
