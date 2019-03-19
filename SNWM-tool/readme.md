@@ -10,17 +10,11 @@
  
 
 ## Introduction
-Social Network Web Mining (SNWM) tool is designed for mining public data from social network websites. Currently, it only support Facebook Pages, whereas, LinkedIn and Twitter updates are under construction. Tool's source code is placed in directory <a href="./Code">"Code" </a>, workflow model is explained in directory <a href="./Workflow model">"Workflow model" </a>, whereas, requirements are outlined in directory <a href="./Requirements">"Requirements"</a>.
+Social Network Web Mining (SNWM) tool is designed for mining public data from social network websites. Currently, it only support Facebook Pages, whereas, LinkedIn and Twitter updates are under construction. Tool's source code is placed in directory <a href="./Code">Code</a>, workflow model is explained in directory <a href="./Workflow model">Workflow model</a>, whereas, requirements are outlined in directory <a href="./Requirements">Requirements</a>.
 
-## Components 
+## Publications
 
-![Frontend Roadmap](./images/frontend.png)
-
-## Phases
-
-![Back-end Roadmap](./images/backend.png)
-
-## Explanation
+## Citations
 
 ## References
 
