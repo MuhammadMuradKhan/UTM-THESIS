@@ -5,13 +5,10 @@
   <a href="https://www.researchgate.net/project/Tool-Social-Network-Web-Mining-SNWM">
     <img src="https://raw.githubusercontent.com/MuhammadMuradKhan/iconspack/master/rg.png" alt="Research material"  height="96">
   </a>
-  <h2 align="center">Developer Roadmap</h2>
+  <h2 align="center">Social Network Web Mining (SNWM) Tool</h2>
   <p align="center">Roadmap to becoming a Web Developer in 2019</p>
   <p align="center">
-    <a href="https://github.com/kamranahmedse/developer-roadmap#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-          <a href="https://github.com/kamranahmedse/developer-roadmap/releases"><img src="https://img.shields.io/badge/Roadmaps-Past-yellow.svg"/></a>
-      <a href="https://twitter.com/home?status=Developer%20Roadmap%20by%20%40kamranahmedse%20http%3A//github.com/kamranahmedse/developer-roadmap"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-<a href="https://twitter.com/kamranahmedse"><img src="https://img.shields.io/badge/feedback-@kamranahmedse-blue.svg" /></a>
+<a href="mailto:muradtariq.tk@gmail.com?Subject=Question%20regarding%20SNWM%20Tool"><img src="https://img.shields.io/badge/feedback-@MuhammadMuradKhan-blue.svg" /></a>
   </p>
   <br>
 </p>
