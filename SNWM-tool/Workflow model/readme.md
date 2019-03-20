@@ -40,6 +40,11 @@ The fourth component of the model is the MySQL database. This component is respo
 
 ## Phases
 
+There are six components of the workflow model. 
+
+###### Initializing application
+
+The first phase of the workflow model is the initialization phase.  This phase involves three component, whereas, fourth component "MySQL Database" is pre-requisite of this phase. MySQL database can be installed by using free software known as XAMP Server. MySQL database should be installed and running before starting this phase. This phase starts by information generated and passed by the user to the Java agent program. Based on the provided information, the Java agent launchs the browser and opens the selected social network.
 
 ## Explanation
 
