@@ -1,5 +1,10 @@
 <p align="center">
   <a href="https://www.researchgate.net/project/Tool-Social-Network-Web-Mining-SNWM">
+    <img src="./banner.png" alt="Research material"  width="980">
+  </a>
+  </p>
+<p align="center">
+  <a href="https://www.researchgate.net/project/Tool-Social-Network-Web-Mining-SNWM">
     <img src="https://raw.githubusercontent.com/MuhammadMuradKhan/iconspack/master/rg.png" alt="Research material"  height="96">
   </a>
   <p align="center">
