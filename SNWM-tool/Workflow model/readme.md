@@ -56,7 +56,7 @@ The third phase first collects all of the posts from the database and for each p
 
 ###### Mining comments
 
-The fourth phase is responsible for collecting the comments related to the collected posts. First, a complete list of posts is retrieved from the database. Then, for each post, comments are mined from the social network website. Finally, collected comments are stored inside the MySQL database. MySQL admin panel can be used by the user for viewing gathered comments.
+The fourth phase is responsible for collecting the comments related to the collected posts. First, a complete list of posts is retrieved from the database. Then, for each post, comments are mined from the social network website. Comments are represented as messages posted by unique user ID. Both message and the user ID are stored insite the MySQL database. MySQL admin panel can be used by the user for viewing gathered comments.
 
 ###### Mining likes
 
@@ -64,7 +64,7 @@ The fifth phase is responsible for collecting likes related to the collected pos
 
 ###### End
 
-## Explanation
+In the end, cross-validation is performed by checking if attributes, comments, and likes have been retrieved for each post. If for any post, any of the phases is not executed, it is repeated before ending the application. 
 
 ## References
 
